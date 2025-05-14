@@ -41,14 +41,4 @@ CREATE TABLE student (
     CGPA FLOAT
 );
 
-**Output Screenshots **
-
-![Screenshot 2025-05-14 215918](https://github.com/user-attachments/assets/058dc40a-0747-4fe6-909e-195efff75711)
-
-
-![Screenshot 2025-05-14 220029](https://github.com/user-attachments/assets/86d581b0-143f-4607-90cd-115c74377f64)
-
-
-![Screenshot 2025-05-14 220124](https://github.com/user-attachments/assets/a290a2c8-557f-4aaa-b8ff-c0d2b6d58718)
-
 
